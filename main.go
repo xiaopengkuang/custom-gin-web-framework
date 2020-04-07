@@ -4,18 +4,18 @@ import (
 	"fmt"
 	"gin-web/common/web"
 	"gin-web/config"
+	"gin-web/datadocker"
 	"gin-web/engine"
+	"gin-web/module/app"
+	"gin-web/module/base"
+	"gin-web/module/oss"
+	"gin-web/module/pc"
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"
 	"os"
 	"strings"
 	"time"
-	"gin-web/module/app"
-	"gin-web/datadocker"
-	"gin-web/module/base"
-	"gin-web/module/pc"
-	"gin-web/module/oss"
 )
 
 // 默认处理函数
