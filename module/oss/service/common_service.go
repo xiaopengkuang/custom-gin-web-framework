@@ -1,7 +1,7 @@
 package service
 
 import (
-	"gin-web/common/model"
+	"github.com/xiaopengkuang/gin-web/common/model"
 	"fmt"
 )
 

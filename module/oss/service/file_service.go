@@ -1,7 +1,7 @@
 package service
 
 import (
-	"gin-web/module/oss/operation/file"
+	"github.com/xiaopengkuang/gin-web/module/oss/operation/file"
 )
 
 const (

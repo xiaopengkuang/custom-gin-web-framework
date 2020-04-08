@@ -2,7 +2,7 @@ package model
 
 import (
 	"fmt"
-	"gin-web/common/web"
+	"github.com/xiaopengkuang/gin-web/common/web"
 	"github.com/gin-gonic/gin"
 )
 

@@ -2,8 +2,8 @@ package mysql
 
 import (
 	"fmt"
-	"gin-web/config"
-	"gin-web/config/model"
+	"github.com/xiaopengkuang/gin-web/config"
+	"github.com/xiaopengkuang/gin-web/config/model"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"
 	"log"

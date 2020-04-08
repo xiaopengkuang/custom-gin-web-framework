@@ -2,7 +2,7 @@ package service
 
 import (
 	"fmt"
-	"gin-web/common/web"
+	"github.com/xiaopengkuang/gin-web/common/web"
 )
 
 const (

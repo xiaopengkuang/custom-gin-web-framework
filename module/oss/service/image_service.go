@@ -1,7 +1,7 @@
 package service
 
 import (
-	"gin-web/module/oss/operation/img"
+	"github.com/xiaopengkuang/gin-web/module/oss/operation/img"
 )
 
 const (

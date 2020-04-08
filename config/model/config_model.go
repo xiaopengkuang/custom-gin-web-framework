@@ -1,6 +1,6 @@
 package model
 
-import "gin-web/util"
+import "github.com/xiaopengkuang/gin-web/util"
 
 // 配置文件结构体
 type AppConfig struct {

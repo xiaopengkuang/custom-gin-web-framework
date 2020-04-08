@@ -2,7 +2,7 @@ package redis
 
 import (
 	"fmt"
-	"gin-web/config"
+	"github.com/xiaopengkuang/gin-web/config"
 	"github.com/go-redis/redis"
 	"time"
 )

@@ -1,8 +1,8 @@
 package app
 
 import (
-	"gin-web/common/model"
-	"gin-web/module/app/service"
+	"github.com/xiaopengkuang/gin-web/common/model"
+	"github.com/xiaopengkuang/gin-web/module/app/service"
 )
 
 const (

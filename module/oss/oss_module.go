@@ -1,8 +1,8 @@
 package oss
 
 import (
-	"gin-web/common/model"
-	"gin-web/module/oss/service"
+	"github.com/xiaopengkuang/gin-web/common/model"
+	"github.com/xiaopengkuang/gin-web/module/oss/service"
 )
 
 const (

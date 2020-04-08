@@ -1,8 +1,8 @@
 package datadocker
 
 import (
-	"gin-web/datadocker/orm/mysql"
-	"gin-web/datadocker/orm/redis"
+	"github.com/xiaopengkuang/gin-web/datadocker/orm/mysql"
+	"github.com/xiaopengkuang/gin-web/datadocker/orm/redis"
 )
 
 func InitDataDocker() []error {

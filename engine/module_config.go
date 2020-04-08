@@ -2,8 +2,8 @@ package engine
 
 import (
 	"fmt"
-	"gin-web/common/model"
-	"gin-web/common/web"
+	"github.com/xiaopengkuang/gin-web/common/model"
+	"github.com/xiaopengkuang/gin-web/common/web"
 	"log"
 	"github.com/gin-gonic/gin"
 )

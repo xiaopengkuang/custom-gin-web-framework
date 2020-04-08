@@ -2,11 +2,11 @@ package model
 
 import (
 	"fmt"
-	"gin-web/common/web"
+	"github.com/xiaopengkuang/gin-web/common/web"
 	"reflect"
 	"strings"
 	"github.com/gin-gonic/gin"
-	"gin-web/util"
+	"github.com/xiaopengkuang/gin-web/util"
 )
 
 const (

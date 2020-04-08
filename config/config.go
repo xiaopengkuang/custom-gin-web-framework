@@ -1,8 +1,8 @@
 package config
 
 import (
-	"gin-web/config/model"
-	"gin-web/util"
+	"github.com/xiaopengkuang/gin-web/config/model"
+	"github.com/xiaopengkuang/gin-web/util"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"log"
